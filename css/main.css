@@ -1,0 +1,112 @@
+h3{
+	text-align: center;
+	color:#8F7BF7;
+}
+
+.logo{
+width: 1300px;
+position: relative;
+}
+
+ul{
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 -10px 0 0;
+	position: relative;
+	float: right;
+	font-size: 10px;
+	line-height: 10px;
+	text-transform: uppercase;
+	white-space: nowrap;
+	color:#777272;
+}
+
+li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+	border-right: 1px solid black;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+
+h1{
+	text-align:center;
+
+}
+
+.nada{
+	position: absolute;
+	color:white;
+	top: 200px;
+	margin-top:50px;
+	margin-left:50px;  
+	z-index:10;
+	text-align:left;
+}
+
+.textura{
+	width: 1300px;
+	position: relative;
+}
+
+
+h4{
+	text-align: center;
+	position: relative;
+	bottom: 500px;	
+}
+
+.decoration1{
+	position: absolute;
+	bottom: 200px;
+	margin-top:50px;
+	margin-left:450px;  
+	
+}
+
+button{
+	background-color: #283B80;
+	width: 180px;
+	height: 40px;
+	border-radius: 6px;
+	bottom: 200px;
+	position: relative;
+	left: 550px;
+	color:white;
+}
+
+.f1{
+	height: 600px;
+	width: 600px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
